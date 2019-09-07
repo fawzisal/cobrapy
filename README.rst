@@ -23,6 +23,10 @@ cobrapy - Constraint-Based Reconstruction and Analysis in Python
    :target: https://codecov.io/gh/opencobra/cobrapy
    :alt: Codecov
 
+.. image:: https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg
+   :target: https://github.com/opencobra/cobrapy/blob/devel/.github/CODE_OF_CONDUCT.md
+   :alt: Contributor Covenant
+
 .. image:: https://badges.gitter.im/opencobra/cobrapy.svg
    :target: https://gitter.im/opencobra/cobrapy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
    :alt: Gitter

@@ -1,7 +1,32 @@
+================================================================
 cobrapy - Constraint-Based Reconstruction and Analysis in Python
 ================================================================
 
-|Build Status| |Coverage Status| |Build status| |PyPI| |Gitter|
+
+.. image:: https://img.shields.io/pypi/v/cobra.svg
+   :target: https://pypi.org/project/cobra/
+   :alt: Current PyPI Version
+
+.. image:: https://img.shields.io/pypi/pyversions/cobra.svg
+   :target: https://pypi.org/project/cobra/
+   :alt: Supported Python Versions
+
+.. image:: https://travis-ci.org/opencobra/cobrapy.svg?branch=master
+   :target: https://travis-ci.org/opencobra/cobrapy
+   :alt: Travis CI
+
+.. image:: https://ci.appveyor.com/api/projects/status/github/opencobra/cobrapy?branch=master&svg=true
+   :target: https://ci.appveyor.com/project/opencobra/cobrapy
+   :alt: AppVeyor
+
+.. image:: https://codecov.io/gh/opencobra/cobrapy/branch/master/graph/badge.svg
+   :target: https://codecov.io/gh/opencobra/cobrapy
+   :alt: Codecov
+
+.. image:: https://badges.gitter.im/opencobra/cobrapy.svg
+   :target: https://gitter.im/opencobra/cobrapy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+   :alt: Gitter
+
 
 What is cobrapy?
 ~~~~~~~~~~~~~~~~
@@ -90,14 +115,3 @@ This program is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
 Public License for more details.
-
-.. |Build Status| image:: https://travis-ci.org/opencobra/cobrapy.svg?branch=master
-   :target: https://travis-ci.org/opencobra/cobrapy
-.. |Coverage Status| image:: https://codecov.io/github/opencobra/cobrapy/coverage.svg?branch=master
-   :target: https://codecov.io/github/opencobra/cobrapy
-.. |Build status| image:: https://ci.appveyor.com/api/projects/status/qmqdy67jbwbc3ds7/branch/master?svg=true
-   :target: https://ci.appveyor.com/project/cobrapy39491/cobrapy/branch/master
-.. |PyPI| image:: https://badge.fury.io/py/cobra.svg
-   :target: https://pypi.python.org/pypi/cobra
-.. |Gitter| image:: https://badges.gitter.im/opencobra/cobrapy.svg
-   :target: https://gitter.im/opencobra/cobrapy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge

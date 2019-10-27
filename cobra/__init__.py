@@ -42,3 +42,6 @@ from cobra import sampling
 from cobra.util import show_versions
 
 __version__ = "0.16.0"
+
+#ALIASES ::: VERY CRUDE :::
+io.read_sbml=io.read_sbml_model

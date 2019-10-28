@@ -96,4 +96,4 @@ venv/
 .benchmarks/
 glpk-4.*
 /.testmondata
-.note
+*.note

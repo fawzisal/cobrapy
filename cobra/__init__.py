@@ -37,6 +37,7 @@ from cobra.core import (
     Configuration, DictList, Gene, Metabolite, Model, Object, Reaction,
     Solution, Species)
 from cobra import flux_analysis
+from cobra import multiSpecies
 from cobra import io
 from cobra import sampling
 from cobra.util import show_versions

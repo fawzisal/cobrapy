@@ -1328,3 +1328,20 @@ class Model(Object):
             compartments=", ".join(
                 v if v else k for k, v in iteritems(self.compartments)
             ))
+
+    @property
+    def rxns(self):
+        return self.reactions
+
+    @rxns.setter
+    def rxns(self, inp):
+        self.reactions = inp
+
+    @property
+    def mets(self):
+        return self.metabolites
+
+    @mets.setter
+    def mets(self, inp):
+        self.metabolites = inp
+

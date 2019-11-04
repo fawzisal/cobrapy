@@ -45,4 +45,8 @@ from cobra.util import show_versions
 __version__ = "0.16.0"
 
 #ALIASES ::: VERY CRUDE :::
-io.read_sbml=io.read_sbml_model
+io.read_sbml = io.read_sbml_model
+io.write_sbml = io.write_sbml_model
+io.validate_sbml = io.validate_sbml_model
+
+
